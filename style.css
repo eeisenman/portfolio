@@ -5,9 +5,6 @@
       p {font-family:helvetica;
          font-variant:small-caps;
          text-indent:26px
-         border:2px solid black;
-         padding:5px;
-         height:100px;
       }
       h2 {font-family:helvetica;}
       ul {font-family:helvetica;
@@ -15,3 +12,8 @@
       }
       h3 {font-family:helvetica;}
       p2 {font-family:helvetica;}
+ table, th, td {
+        text-align: left;
+        vertical-align: left;
+        color: #01426a
+      }
