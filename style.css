@@ -12,7 +12,7 @@
       }
       h3 {font-family:helvetica;}
       p2 {font-family:helvetica;}
- table, th, td {
+ table, th, tr {
         text-align: left;
         color: #01426a
       }
