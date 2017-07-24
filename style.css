@@ -16,7 +16,5 @@
           font-size: 32px;
 }
       p2 {font-family:helvetica;}
- table, th, tr {
-        vertical-align: left;
-        text-align: left;
-      }
+ table {vertical-align: left, text-align: left;}
+     
