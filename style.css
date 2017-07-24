@@ -1,0 +1,14 @@
+ body {background-color:grey;}
+      h1 {font-family:helvetica;
+          font-size: 56px;
+      }
+      p {font-family:helvetica;
+         font-variant:small-caps;
+         text-indent:26px;
+      }
+      h2 {font-family:helvetica;}
+      ul {font-family:helvetica;
+          font-variant:small-caps;
+      }
+      h3 {font-family:helvetica;}
+      p2 {font-family:helvetica;}
