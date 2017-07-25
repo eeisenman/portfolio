@@ -19,5 +19,9 @@
           font-size: 32px;
 }
       p2 {font-family:helvetica;}
- table {vertical-align: left, text-align: left;}
+}
+table {
+    border-collapse: separate;
+    border-spacing: 10px 50px;
+}
      
