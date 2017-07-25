@@ -8,8 +8,13 @@
       }
       h2 {font-family:helvetica;
           font-size: 32px;
-       
-      }
+}
+      ul { 
+       font-family:helvetica;
+       font-variant:small-caps;
+       font-size: 16 px;
+       text-align: left;
+}
       h3 {font-family:helvetica;
           font-size: 32px;
 }
