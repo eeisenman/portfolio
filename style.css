@@ -21,6 +21,8 @@
        font-variant:small-caps;
        font-size: 16 px;
        text-align: left;
+       background-color: white;
+       display:inline;
 }
       h3 {font-family:helvetica;
           font-size: 32px;
@@ -28,6 +30,8 @@
        display:inline;
 }
       p2 {font-family:helvetica;}
+background-color: white;
+       display:inline;
 }
 table {
     border-collapse: separate;
