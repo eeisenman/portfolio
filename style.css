@@ -1,13 +1,16 @@
  body {background-color:gainsboro;}
       h1 {font-family:font76794;
           font-size: 64px;
+          background-color: white; 
       }
       p {font-family:helvetica;
          font-variant:small-caps;
          text-indent:26px;
+         background-color: white;
       }
       h2 {font-family:helvetica;
-          font-size: 32px;
+          font-size: 26px;
+          background-color: white;
 }
       ul { 
        font-family:helvetica;
@@ -17,6 +20,7 @@
 }
       h3 {font-family:helvetica;
           font-size: 32px;
+          background-color: white;
 }
       p2 {font-family:helvetica;}
 }
