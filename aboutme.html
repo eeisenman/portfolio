@@ -9,12 +9,21 @@
   </head>
   <body>
     <div class="w3-sidebar w3-bar-block w3-white w3-animate-left" style="display:none;z-index:4" id="mySidebar">
-  <button class="w3-bar-item w3-button" onclick="w3_close()">Close</button>
-  <a href="eeisenman.io/portfolio/aboutme.html" class="w3-bar-item w3-button">Home</a> 
-  <a href="#" class="w3-bar-item w3-button"></a>
-  <a href="#" class="w3-bar-item w3-button">Link 3</a>
+  <button class="tablinks" onclick="openTab(event, 'Home')">Home</button>
+  <button class="tablinks" onclick="openTab(event, 'Likes/Dislikes')">Likes/Dislikes</button>
+      <button class="tablinks" onclick="openTab(event, 'Websites')">Websites</button>
+      <button class="tablinks" onclick="openTab(event, 'Projects')">Projects</button>
 </div>
 
+    <div id="Home" class="tabcontent>
+       <center><h1>All About Me:<em>Erica Edition</em></h1></center>
+  <center><img src="https://bit.ly/2u1EQZr" style= "width:200px; height:200px;"></center>
+      <p> Hi! My name is Erica Ramos Eisenman and I am Filipino and German! I'm an incoming senior at Castro Valley High School. 
+        Some might say that I'm crazy, wild, and fun and others might say that I'm quiet, reserved, and shy. 
+        <em>Many</em> people interpret me in <em>many</em> ways. You can either find me singing, sleeping, eating, walking or hiking to
+        my next adventure. I love dogs and long walks on the beach.  </p>
+      </div>                                                                            
+      <div id="Likes/Dislikes" class="tabcontent>
 <!-- Overlay -->
 <div class="w3-overlay" onclick="w3_close()" style="cursor:pointer"></div>
     <!-- Page Content -->
@@ -35,14 +44,6 @@ function w3_close() {
     document.getElementById("myOverlay").style.display = "none";
 }
 </script>
-    <div>
-    <center><h1>All About Me:<em>Erica Edition</em></h1></center>
-  <center><img src="https://bit.ly/2u1EQZr" style= "width:200px; height:200px;"></center>
-      <p> Hi! My name is Erica Ramos Eisenman and I am Filipino and German! I'm an incoming senior at Castro Valley High School. 
-        Some might say that I'm crazy, wild, and fun and others might say that I'm quiet, reserved, and shy. 
-        <em>Many</em> people interpret me in <em>many</em> ways. You can either find me singing, sleeping, eating, walking or hiking to
-        my next adventure. I love dogs and long walks on the beach.  </p>
-    </div>
        <div style ="overflow-x:auto;">
       <table style="width:90%; margin:1em auto">
         <tr>
