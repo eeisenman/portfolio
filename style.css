@@ -27,11 +27,8 @@
       h3 {font-family:helvetica;
           font-size: 32px
 }
-      p2 {font-family:helvetica;}
-background-color: white;
+      p2 { 
+       font-family:helvetica; 
+       background-color: white;
        display:inline;
-}
-table {
-    border-collapse: separate;
-    border-spacing: 10px 50px;
 }
