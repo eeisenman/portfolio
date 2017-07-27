@@ -4,6 +4,7 @@
           background-color: white;
        display:inline;
        box-shadow: 10px 10px 5px #888888;
+       margin: 20px, 0px, 0px;
       }
       p {font-family:helvetica;
          font-variant:small-caps;
