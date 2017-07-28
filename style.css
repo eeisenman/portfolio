@@ -8,8 +8,8 @@
           background-color: white;
        display:inline;
        box-shadow: 10px 10px 5px #888888;
-       margin-bottom: 50px;
-       margin-top: 20px;
+       margin-bottom: 100px;
+       margin-top: 50px;
       }
       p {font-family:helvetica;
        display:inline;
@@ -17,12 +17,13 @@
          text-indent:26px;
          background-color: white;
        box-shadow: 10px 10px 5px #888888;
-       margin: 20px, 0px, 0px;
+       margin-top: 100px;
       }
       h2 {font-family:helvetica;
           font-size: 26px;
           background-color: white;
-       display:inline;
+       display:inline
+        margin-top: 90px;
 }
       ul { 
        font-family:helvetica;
