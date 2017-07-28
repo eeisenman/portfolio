@@ -12,6 +12,7 @@
        margin-top: 20px;
       }
       p {font-family:helvetica;
+       display:inline;
          font-variant:small-caps;
          text-indent:26px;
          background-color: white;
