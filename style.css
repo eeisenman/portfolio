@@ -1,4 +1,8 @@
- body {background-color:gainsboro;}
+ body {background-color:gainsboro;
+       border: 1px solid black;
+       outline-style: double;
+       outline-color: black;
+}
       h1 {font-family:font76794;
           font-size: 64px;
           background-color: white;
