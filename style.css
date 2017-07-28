@@ -19,7 +19,7 @@
        margin-top: 100px;
       }
       h2 {font-family:font76794;
-          font-size: 26px;
+          font-size: 32px;
           background-color: white;
        display:inline;
         margin-top: 90px;
@@ -32,6 +32,8 @@
 }
       h3 {font-family:helvetica;
           font-size: 32px;
+       background-color: white;
+       display:inline;
 }
       p2 { 
        font-family:helvetica; 
