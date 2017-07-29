@@ -39,6 +39,8 @@ hr {
        font-variant:small-caps;
        font-size: 16px;
        text-align: left;
+       background-color: white;
+       display:inline;
 }
       h3 {
        font-family:font114869;
