@@ -15,6 +15,7 @@ hr {
        display:inline;
        box-shadow: 10px 10px 5px #888888;
        margin-top: 50px;
+       border: 2px solid #555555;
       }
       p {
        font-family:helvetica;
@@ -31,6 +32,7 @@ hr {
        display:inline;
         margin-top: 100px;
        box-shadow: 10px 10px 5px #888888;
+       border: 2px solid #555555;
 }
       ul { 
        font-family:helvetica;
@@ -44,12 +46,9 @@ hr {
        background-color: white;
        display:inline;
        box-shadow: 10px 10px 5px #888888;
+       border: 2px solid #555555;
 }
-      p2 { 
-       font-family:helvetica; 
-       background-color: white;
-       display:inline;
-}
+
 
 a {
   font-size: 12px;
