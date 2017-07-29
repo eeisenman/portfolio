@@ -1,23 +1,31 @@
- body {background-color:gainsboro;
+ body {
+  background-color:gainsboro;
        border: 1px solid black;
        outline-style: double;
        outline-color: black;
 }
-      h1 {font-family:font76794;
+hr {
+ margin-top: 50px;
+ margin-bottom: 50px;
+}
+      h1 {
+       font-family:font76794;
           font-size: 64px;
           background-color: white;
        display:inline;
        box-shadow: 10px 10px 5px #888888;
        margin-top: 50px;
       }
-      p {font-family:helvetica;
+      p {
+       font-family:helvetica;
        display:inline;
          font-variant:small-caps;
          text-indent:26px;
          background-color: white;
        box-shadow: 10px 10px 5px #888888;
       }
-      h2 {font-family:font114869;
+      h2 {
+       font-family:font114869;
           font-size: 32px;
           background-color: white;
        display:inline;
@@ -30,7 +38,8 @@
        font-size: 16px;
        text-align: left;
 }
-      h3 {font-family:font114869;
+      h3 {
+       font-family:font114869;
           font-size: 32px;
        background-color: white;
        display:inline;
