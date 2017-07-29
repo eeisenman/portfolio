@@ -16,7 +16,6 @@
          text-indent:26px;
          background-color: white;
        box-shadow: 10px 10px 5px #888888;
-       margin-top: 100px;
       }
       h2 {font-family:font114869;
           font-size: 32px;
@@ -41,4 +40,9 @@
        font-family:helvetica; 
        background-color: white;
        display:inline;
+}
+.line-separator{
+       height:1px;
+       background:#717171;
+       border-bottom:1px solid #313030;
 }
